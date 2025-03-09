@@ -29,9 +29,3 @@ The `User ` class represents a user with the following attributes:
 - `user_id`: The unique identifier for the user.
 - `booking_cost`: The total cost of the user's bookings.
 
-## Installation
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/hotel-user-management.git
-   cd hotel-user-management
